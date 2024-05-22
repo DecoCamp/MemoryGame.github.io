@@ -13,7 +13,7 @@ const characters = [
   '3meses',
   '4meses',
   'niverJao',
-  'ratao',
+  'Ratao',
   'favorita',
   'anel',
   'first'
